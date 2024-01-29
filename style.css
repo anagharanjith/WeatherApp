@@ -1,0 +1,13 @@
+.ofcan{
+    background-color: rgba(70, 68, 68, 0.774) !important;
+}
+.div1{
+    background-image: url('./images/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.div2{
+    background-image: none;
+    margin-top: 220px;
+    margin-left: 50px;
+}
